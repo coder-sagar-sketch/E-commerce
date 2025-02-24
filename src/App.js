@@ -11,7 +11,7 @@ import { Product } from "./pages/Product/product";
 import { Cart } from "./pages/Cart/cart";
 import { nofound as Nofound } from "./pages/Nofound/nofound";
 import { useCart } from "./Context/Context";
-import Header from "./Components/header/header";
+
 import Footer from "./Components/Footer/Footer";
 
 function App() {
